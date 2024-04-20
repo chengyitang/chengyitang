@@ -4,10 +4,8 @@
 <h3 align="center">A passionate software engineering student from Taiwan</h3>
 
 <p align="center">
-  ![image](Resources/giphy.gif)
+  <img src="Resources/giphy.gif" alt="animated" />
 </p>
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chengyitang&label=Profile%20views&color=0e75b6&style=flat" alt="chengyitang" /> </p>
 
