@@ -3,6 +3,8 @@
 <h1 align="center">I'm Cheng-Yi (Thomas) Tang</h1>
 <h3 align="center">A passionate software engineering student from Taiwan</h3>
 
+![image](Resources/giphy.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chengyitang&label=Profile%20views&color=0e75b6&style=flat" alt="chengyitang" /> </p>
 
 - 👨‍💻 I’m currently working on **Deep Learning Approach on Touch IC at Raydium Semiconductor**
