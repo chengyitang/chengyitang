@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chengyitang&label=Profile%20views&color=0e75b6&style=flat" alt="chengyitang" /> </p>
 
-- 👨‍💻 I’m currently working on **Deep Learning Approach on Touch IC at Raydium Semiconductor**
-
 - 👨🏻‍🎓 I’m an incoming student of [Master of Software Engineering at University of California, Irvine](https://www.informatics.uci.edu/grad/mswe/)
+
+- 👨‍💻 I’m currently working on **Deep Learning Approach on Touch IC at Raydium Semiconductor**
 
 - 🤝 I’m looking for summer internship **of SWE/SDE role in California**
 
