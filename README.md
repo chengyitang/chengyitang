@@ -1,5 +1,5 @@
 <h1 align="center">I'm Cheng-Yi (Thomas) Tang</h1>
-<h3 align="center">A passionate software engineering student from Taiwan</h3>
+<h4 align="center">A passionate software engineering student from Taiwan</h4>
 
 <p align="center">
   <img src="Resources/giphy.gif" alt="animated" />
@@ -13,9 +13,9 @@
 
 - 💼 I was **Datacenter Technical Sales Specialist Intern** @ [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html)
 
-- 🤝 I’m looking for summer internship **of SWE/SDE role in California**
+- 🤝 I’m seeking for 2025 summer internship of SWE/SDE role in California 
 
-- 📫 How to reach me **tangcy1002@gmail.com**
+- 📫 How to reach me [tangcy1002@gmail.com](tangcy1002@gmail.com)
 
 - 📄 [Resume (Full-stack)](https://docs.google.com/document/d/1nOT0YjXxwYtRZT_1tfM03Q4R5XtrtxhIAWyRwKoxp3s/edit?usp=sharing)
 - 📄 [Resume (Machine Leanring)](https://docs.google.com/document/d/18TVultjMvlhrm37g3DXV-N5FrHaHginlOSTHUiZ6DFU/edit?usp=sharing)
