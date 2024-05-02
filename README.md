@@ -9,13 +9,15 @@
 
 - 👨🏻‍🎓 I’m an incoming student of [Master of Software Engineering at University of California, Irvine](https://www.informatics.uci.edu/grad/mswe/)
 
-- 👨‍💻 I’m currently working on **Deep Learning Approach on Touch IC at Raydium Semiconductor**
+- 👨‍💻 I’m currently working as **Digital IC Software Engineer Intern at Raydium Semiconductor**
+
+- 💼 I was **Datacenter Technical Sales Specialist Intern at Intel Corporation**
 
 - 🤝 I’m looking for summer internship **of SWE/SDE role in California**
 
 - 📫 How to reach me **tangcy1002@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1SMzWTi4nMmKS45tMIJXpSAsP7W5d_k9yFjmhGy5tsnk/edit?usp=sharing](https://docs.google.com/document/d/1SMzWTi4nMmKS45tMIJXpSAsP7W5d_k9yFjmhGy5tsnk/edit?usp=sharing)
+- 📄 Full-stack Resume [https://docs.google.com/document/d/1SMzWTi4nMmKS45tMIJXpSAsP7W5d_k9yFjmhGy5tsnk/edit?usp=sharing](https://docs.google.com/document/d/1nOT0YjXxwYtRZT_1tfM03Q4R5XtrtxhIAWyRwKoxp3s/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
