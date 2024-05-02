@@ -9,13 +9,13 @@
 
 - 👨🏻‍🎓 I’m an incoming student of [Master of Software Engineering at University of California, Irvine](https://www.informatics.uci.edu/grad/mswe/)
 
-- 👨‍💻 I’m currently working as **Digital IC Software Engineer Intern** @ [Raydium Semiconductor](https://www.rad-ic.com/)
+- 👨‍💻 I’m currently working as **Digital IC Software Engineer Intern** @ [Raydium Semiconductor Corporation](https://www.rad-ic.com/)
 
 - 💼 I was **Datacenter Technical Sales Specialist Intern** @ [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html)
 
 - 🤝 I’m seeking for 2025 summer internship of SWE/SDE role in California 
 
-- 📫 How to reach me [tangcy1002@gmail.com](tangcy1002@gmail.com)
+- 📫 How to reach me: [tangcy1002@gmail.com](tangcy1002@gmail.com)
 
 - 📄 [Resume (Full-stack)](https://docs.google.com/document/d/1nOT0YjXxwYtRZT_1tfM03Q4R5XtrtxhIAWyRwKoxp3s/edit?usp=sharing)
 - 📄 [Resume (Machine Leanring)](https://docs.google.com/document/d/18TVultjMvlhrm37g3DXV-N5FrHaHginlOSTHUiZ6DFU/edit?usp=sharing)
