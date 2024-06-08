@@ -17,9 +17,6 @@
 
 - 📫 How to reach me: [tangcy1002@gmail.com](tangcy1002@gmail.com)
 
-- 📄 [Resume (Full-stack)](https://docs.google.com/document/d/1nOT0YjXxwYtRZT_1tfM03Q4R5XtrtxhIAWyRwKoxp3s/edit?usp=sharing)
-- 📄 [Resume (Machine Leanring)](https://docs.google.com/document/d/18TVultjMvlhrm37g3DXV-N5FrHaHginlOSTHUiZ6DFU/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cheng-yi tang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cheng-yi tang" height="30" width="40" /></a>
