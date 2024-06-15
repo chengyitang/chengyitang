@@ -11,7 +11,7 @@
 
 - 👨‍💻 I’m currently working as **Software Engineer Intern** @ [Raydium Semiconductor Corporation](https://www.rad-ic.com/)
 
-- 💼 I was **Datacenter Technical Sales Specialist Intern** @ [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html)
+- 💼 I was **Datacenter Technical Specialist Intern** @ [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html)
 
 - 🤝 I’m seeking for 2025 summer internship of SWE/SDE role in California 
 
