@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chengyitang&label=Profile%20views&color=0e75b6&style=flat" alt="chengyitang" /> </p>
 
-- 👨🏻‍🎓 I’m an incoming student of [Master of Software Engineering at University of California, Irvine](https://www.informatics.uci.edu/grad/mswe/)
+- 👨🏻‍🎓 I’m a student of [Master of Software Engineering at University of California, Irvine](https://www.informatics.uci.edu/grad/mswe/)
 
-- 👨‍💻 I’m currently working as **Software Engineer Intern** @ [Raydium Semiconductor Corporation](https://www.rad-ic.com/)
+- 👨‍💻 I previously worked as **Software Engineer Intern** @ [Raydium Semiconductor Corporation](https://www.rad-ic.com/)
 
 - 💼 I was **Datacenter Technical Specialist Intern** @ [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html)
 
-- 🤝 I’m seeking for 2025 summer internship of SWE/SDE role in California 
+- 🤝 I’m seeking for 2025 summer internship of SWE/SDE 
 
 - 📫 How to reach me: [tangcy1002@gmail.com](tangcy1002@gmail.com)
 
