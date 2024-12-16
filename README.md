@@ -1,5 +1,4 @@
-<h1 align="center">I'm Cheng-Yi (Thomas) Tang</h1>
-<h4 align="center">A passionate software engineering student from Taiwan</h4>
+<h1 align="center">Cheng-Yi (Thomas) Tang</h1>
 
 <p align="center">
   <img src="Resources/giphy.gif" alt="animated" />
