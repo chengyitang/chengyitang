@@ -1,9 +1,12 @@
 <h1 align="center">Cheng-Yi (Thomas) Tang</h1>
 
+[chengyitang.github.io](https://chengyitang.github.io/)
+
 <p align="center">
   <img src="Resources/giphy.gif" alt="animated" />
 </p>
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chengyitang&label=Profile%20views&color=0e75b6&style=flat" alt="chengyitang" /> </p>
 
 - 👨🏻‍🎓 I’m a student of [Master of Software Engineering at University of California, Irvine](https://mswe.ics.uci.edu/?gad_source=1&gclid=Cj0KCQiAsaS7BhDPARIsAAX5cSCkNkckMVzoxUI_iKITl5UOfaUFOXamlnTQhZHgfXtZ-3_qrKwYGycaAvY6EALw_wcB)
@@ -20,14 +23,15 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/tangchengyi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cheng-yi tang" height="30" width="40" /></a>
 </p>
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
