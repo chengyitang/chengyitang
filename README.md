@@ -4,9 +4,7 @@
   <img src="Resources/giphy.gif" alt="animated" />
 </p>
 
-[chengyitang.github.io](https://chengyitang.github.io/)
 
-<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chengyitang&label=Profile%20views&color=0e75b6&style=flat" alt="chengyitang" /> </p>
 
 - 👨🏻‍🎓 I’m a student of [Master of Software Engineering at University of California, Irvine](https://mswe.ics.uci.edu/?gad_source=1&gclid=Cj0KCQiAsaS7BhDPARIsAAX5cSCkNkckMVzoxUI_iKITl5UOfaUFOXamlnTQhZHgfXtZ-3_qrKwYGycaAvY6EALw_wcB)
@@ -15,15 +13,10 @@
 
 - 💼 I was **Datacenter Technical Specialist Intern** @ [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html)
 
-- 🤝 I’m seeking for 2025 summer internship of SWE/SDE 
+- 📫 How to reach me: [chengyit@uci.edu](chengyit@uci.edu)
 
-- 📫 How to reach me: [tangcy1002@gmail.com](tangcy1002@gmail.com) | [chengyit@uci.edu](chengyit@uci.edu)
+- 💁🏻‍♂️ Website: [chengyitang.github.io](https://chengyitang.github.io/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tangchengyi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cheng-yi tang" height="30" width="40" /></a>
-</p>
--->
 
 <h5 align="left">Languages and Tools:</h5>
 <p align="left">
