@@ -4,7 +4,7 @@
   <img src="Resources/giphy.gif" alt="animated" />
 </p>
 
-<p align="center">[chengyitang.github.io](https://chengyitang.github.io/)</p>
+[chengyitang.github.io](https://chengyitang.github.io/)
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chengyitang&label=Profile%20views&color=0e75b6&style=flat" alt="chengyitang" /> </p>
@@ -25,7 +25,7 @@
 </p>
 -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h5 align="left">Languages and Tools:</h5>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
