@@ -1,10 +1,10 @@
 <h1 align="center">Cheng-Yi (Thomas) Tang</h1>
 
-[chengyitang.github.io](https://chengyitang.github.io/)
-
 <p align="center">
   <img src="Resources/giphy.gif" alt="animated" />
 </p>
+
+<div align="center">[chengyitang.github.io](https://chengyitang.github.io/)</div>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chengyitang&label=Profile%20views&color=0e75b6&style=flat" alt="chengyitang" /> </p>
@@ -71,9 +71,6 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
   </a>
 </p>
 
