@@ -4,7 +4,7 @@
   <img src="Resources/giphy.gif" alt="animated" />
 </p>
 
-<div align="center">[chengyitang.github.io](https://chengyitang.github.io/)</div>
+<p align="center">[chengyitang.github.io](https://chengyitang.github.io/)</p>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chengyitang&label=Profile%20views&color=0e75b6&style=flat" alt="chengyitang" /> </p>
