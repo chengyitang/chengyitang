@@ -1,15 +1,15 @@
-<h1 align="center">Hey, I'm Chengyi </h1>
+<h1 align="center">Hey, I'm Cheng-Yi (Thomas) </h1>
 
 I write Java and Python.
 
-- My website: chengyitang.github.io
+My website: [chengyitang.github.io](chengyitang.github.io)
   
-- Research:
+Research:
   - The influence of a robot recommender system on impulse buying tendency
   - Assessing the decision-making process in human-robot collaboration using a Lego-like EEG headset
   - A machine learning approach to model HRI research trends in 2010~ 2021
     
-- Tech blog:
+Tech blog:
   - [Running Official Llama 3.2 on M1 Mac Locally](https://medium.com/@chengyit/official-llama-3-2-on-m1-mac-07b7c3732013)
 
 <!--
