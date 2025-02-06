@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm Cheng-Yi (Thomas) </h1>
+<h1 align="center">Hey, I'm Cheng-Yi</h1>
 
-I write Java and Python. Grinding at UC Irvine...
+I write Java and Python. 
 
 My website: [chengyitang.github.io](chengyitang.github.io)
   
