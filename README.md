@@ -2,7 +2,7 @@
 
 I write Java and Python. 
 
-My website: [chengyitang.github.io]((https://chengyitang.github.io/)
+My website: [chengyitang.github.io](https://chengyitang.github.io/)
   
 Research:
   - The influence of a robot recommender system on impulse buying tendency
