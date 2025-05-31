@@ -9,9 +9,6 @@ Research:
   - Assessing the decision-making process in human-robot collaboration using a Lego-like EEG headset
   - A machine learning approach to model HRI research trends in 2010~ 2021
     
-Tech blog:
-  - [Running Official Llama 3.2 on M1 Mac Locally](https://medium.com/@chengyit/official-llama-3-2-on-m1-mac-07b7c3732013)
-  - [Hacking OWASP Juice Shop](https://medium.com/@chengyit/hacking-owasp-juice-shop-beginner-experience-6abb82b58a12)
 
 <!--
 <p align="center">
