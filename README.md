@@ -1,12 +1,6 @@
 <h1 align="center">Hey, I'm Cheng-Yi</h1>
 
-I write Java and Python. Learning Spring Boot...
-
-  
-Research:
-  - The influence of a robot recommender system on impulse buying tendency
-  - Assessing the decision-making process in human-robot collaboration using a Lego-like EEG headset
-  - A machine learning approach to model HRI research trends in 2010~ 2021
+I write Java and Python.
     
 
 <!--
