@@ -20,4 +20,4 @@ I write Java and Python.
 - 📫 How to reach me: [chengyit@uci.edu](chengyit@uci.edu)
 
 -->
-- 💁🏻‍♂️ Website: [chengyitang.github.io](https://chengyitang.github.io/)
+💁🏻‍♂️ Website: [chengyitang.github.io](https://chengyitang.github.io/)
