@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Cheng-Yi</h1>
+<h1 align="center">Hey, wassup!</h1>
 
 [Personal Website](https://chengyitang.github.io/)
 
