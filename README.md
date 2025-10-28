@@ -1,3 +1,3 @@
 [Personal Website](https://chengyitang.github.io/)
 
-[Blog](cytang.io)
+[Blog](https://cytang.io)
